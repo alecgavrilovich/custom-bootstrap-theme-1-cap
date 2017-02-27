@@ -8122,4 +8122,18 @@ button.close {
   background: #1a8c97;
   color: #fff; }
   .section-c .btn-primary {
-    background: #13646b; }
+    background: #0f4f56; }
+
+.title-bar {
+  background: url(../img/showcase.jpg) no-repeat 0 -300px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #1a8c97; }
+
+.main {
+  margin-top: 30px; }
+
+footer {
+  padding: 30px 0;
+  background: #13646b;
+  color: #fff;
+  text-align: center; }
